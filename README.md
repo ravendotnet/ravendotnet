@@ -24,9 +24,10 @@
 <br>
 
 <h2 align="center">about me</h2>
-<p align="center">Computer Science Student, aiming to be a Full-stack Programmer.<br>
-Had years of industry experience in multiple creative facets. Switched career to be a programmer<br><br>
-<i>"—a lifelong learner, mistakes can be the best teacher"</i>
+<p align="center"> 
+  Hello, I'm Keziah Zoe Plural, commonly known as "Raven". <br> Computer Science Student, aiming to be a Full-stack Programmer. <br>
+  Had years of industry experience in multiple creative facets, now exploring technology and programming proficiency. <br><br>
+  <i>"—a lifelong learner, mistakes can be the best teacher"</i>
 </p>
 
 <br><br>
