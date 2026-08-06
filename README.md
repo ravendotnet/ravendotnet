@@ -54,13 +54,14 @@
   <a href="https://github.com/ravendotnet/binary-calculator.git">
     <img src="https://img.shields.io/badge/Binary-Calculator-000000?style=for-the-badge" alt="Binary Calculator">
   </a>
-  &nbsp;&nbsp;  
   <a href="https://github.com/ravendotnet/CSharp-Notes">
     <img src="https://img.shields.io/badge/CSharp-Notes-000000?style=for-the-badge" alt="C# Notes">
   </a>
-  &nbsp;&nbsp;
-  <a href="(https://bluelearn.org/">
+  <a href="https://bluelearn.org/">
     <img src="https://img.shields.io/badge/BlueLearn-Org-000000?style=for-the-badge" alt="BlueLearn Org">
+  </a>
+  <a href="https://github.com/ravendotnet/info-management-notes.git">
+    <img src="https://img.shields.io/badge/InfoManagement-Notes-000000?style=for-the-badge" alt="Info.Management Notes">
   </a>
 </p>
 
