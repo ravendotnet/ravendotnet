@@ -18,7 +18,7 @@
 
 ---
 
-## ⋆.˚໑ ݁༝ ۫ ׅ   about me
+## ₊˚.🎧 ✩｡☕ ⋆.˚໑ ׅ݁   about me
 
 Tech. Code. Multimedia. I build the bridges between them.
 
@@ -31,7 +31,7 @@ Tech. Code. Multimedia. I build the bridges between them.
 
 ---
 
-## 𓍯𓂃𓏧 techstack
+## ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. techstack
 
 ### Development
 <p>
