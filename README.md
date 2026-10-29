@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/ravendotnet"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://artstation.com/hraefnp"><img src="https://img.shields.io/badge/Artstation-8599ad?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" /></a>
-  <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://artstation.com/ravendotart"><img src="https://img.shields.io/badge/Artstation-8599ad?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" /></a>
+  <a href="https://www.linkedin.com/in/keziahplural"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:raybenous@gmail.com"> <img src="https://img.shields.io/badge/Email-8599ad?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
